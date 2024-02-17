@@ -1,4 +1,4 @@
-# operating-sys-assignements
+# Operating-Sys-Assignements
 
 ## Credits
 
